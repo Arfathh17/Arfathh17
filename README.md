@@ -220,4 +220,176 @@ Current Focus:
     - Engineering Communities
 ```
 
+--
+
+# Experience
+
+<div align="left">
+
+## Junior Web Developer  
+### Aspiron Khuze Technologies Pvt. Ltd.
+
+**January 2026 – February 2026**
+
+Worked as a Junior Web Developer, contributing to the development of full-stack web applications and gaining hands-on experience with backend engineering, database management, and modern development workflows.
+
+### Scope of Work
+
+- Developed and maintained web applications using Node.js and Express.js
+- Designed and integrated MongoDB databases
+- Built RESTful APIs for application functionality
+- Implemented authentication and authorization mechanisms
+- Followed MVC architecture and software engineering best practices
+- Collaborated on real-world project development
+
+### Skills
+
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/REST_API-6D28D9?style=flat-square)
+![](https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
 ---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|----------|
+| BCA Graduate | Successfully completed Bachelor of Computer Applications |
+| Industry Internship | Completed Junior Web Developer Internship |
+| Major Project | Built AI-Powered Job Portal with Resume Analysis |
+| Backend Engineering | Specialized in Node.js and MongoDB Development |
+| Continuous Learning | Exploring AI, System Design, and Cloud Technologies |
+
+</div>
+
+---
+
+# Certifications
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Learning-orange?style=for-the-badge)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Technology-red?style=for-the-badge&logo=oracle)
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+
+> Remove any certification badge that you don't actually have.
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Coming_Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coming_Soon-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Coming_Soon-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Coming_Soon-5B4638?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfathh17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arfathh17&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfathh17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arfathh17&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arfathh17&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+```yaml
+Note:
+  Snake animation requires a GitHub Action workflow.
+  It will be enabled after setting up the action in your repository.
+```
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:arfathm310@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-arfath-b7415a372">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammed_Arfath-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/arfathh17">
+<img src="https://img.shields.io/badge/GitHub-arfathh17-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Beast in silence. Roar in results."*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:8B5CF6,100:4F46E5"/>
+
+</div>
